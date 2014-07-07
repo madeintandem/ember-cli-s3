@@ -1,4 +1,3 @@
-ember-cli-s3-deploy
-===================
+# Ember CLI Add-On for S3
 
-Ember CLI add-on to auto publish to S3
+This is an Ember CLI add-on for hosting assets on S3.

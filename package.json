@@ -1,0 +1,25 @@
+{
+  "name": "ember-cli-s3",
+  "version": "0.0.1",
+  "description": "An Ember CLI add-on for hosting assets on S3",
+  "homepage": "https://github.com/devmynd/ember-cli-s3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": [
+    "Chris Sprehe <chris.sprehe@gmail.com>",
+    "Tony Coconate <me@tonycoconate.com>"
+  ],
+  "license": "MIT",
+  "ember-addon": {
+    "main": "index"
+  },
+  "keywords": [
+    "ember-addon"
+  ],
+  "dependencies": {
+    "aws-sdk": "^2.0.4",
+    "ember-publisher": "0.0.1"
+  }
+}
