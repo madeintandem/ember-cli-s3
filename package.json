@@ -25,7 +25,6 @@
     "ember-addon"
   ],
   "dependencies": {
-    "aws-sdk": "^2.0.4",
-    "ember-publisher": "0.0.1"
+    "aws-sdk": "^2.0.4"
   }
 }
