@@ -30,6 +30,9 @@
   },
   "devDependencies": {
     "rsvp": "~3.0.9",
-    "quick-temp": "~0.1.2"
+    "quick-temp": "~0.1.2",
+    "fs-extra": "~0.10.0",
+    "pleasant-progress": "1.0.1",
+    "chalk": "~0.5.1"
   }
 }
